@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+ /* CSS Style FOR HEADER */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -85,6 +87,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+ /* CSS Style FOR LEAD, BRAND AND COST SECTIONS */
 
 .benefit-lead,
 .benefit-brand,
@@ -107,6 +110,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+ /* CSS Style FOR SEO, ORM AND SMM SECTIONS */
 
 .search-engine-optimization,
 .online-reputation-management,
@@ -133,6 +138,7 @@ p {
     font-size: 36px;
 }
 
+ /* CSS Style FOR FOOTER */
 
 .footer {
     padding: 30px;
