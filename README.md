@@ -34,7 +34,7 @@ Your website must meet accessibility standards. You can achieve this completing 
 * HTML elements follow a logical structure independent of styling and positioning
 * Image and icon elements contain accessible `alt` attributes
 * Heading attributes fall in sequential order
-* Title elements contain a concise, descriptive title
+* Title elements contain a concise, descriptive title - DONE
 
 ### Resources:
 
